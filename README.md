@@ -1,4 +1,4 @@
-# projetoBDI
+# BD - Olá Mundo Telecom
 
 Projeto de conclusão da disciplina Banco de Dados I - IFPE Recife.
 Trata-se do planejamento e elaboração de um BD para uma empresa ficticia chamada Olá Mundo Telecom.
