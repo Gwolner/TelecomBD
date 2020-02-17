@@ -28,19 +28,18 @@ Nem todos os técnicos possuem registro no CREA, mas todos possuem CNH para que 
 ## Script MySQL
 
 Criação do BD.
-```
+```mysql
 CREATE DATABASE ola_mundo_telecom;
 ```
-<br/>
 
 Declaração de uso do BD a ser manipulado.
-```
+```mysql
 USE ola_mundo_telecom;
+/*Ou clique duas vezes sobre o nome do BD.*/
 ```
-<br/>
 
 Criação das tabelas com seus respectivos campos.
-```
+```mysql
 CREATE TABLE endereco_cliente(
 id_endereco_cliente INT,
 rua VARCHAR(45) NOT NULL,
@@ -127,10 +126,9 @@ FOREIGN KEY (id_servico) REFERENCES servico (id_servico),
 FOREIGN KEY (id_endereco_servico) REFERENCES endereco_servico (id_endereco_servico)
 );
 ```
-<br/>
 
 Exclusão das tabelas.
-```
+```mysql
 DROP TABLE servico_x_tecnico;
 DROP TABLE tecnico;
 DROP TABLE contrato;
@@ -141,9 +139,8 @@ DROP TABLE cliente;
 DROP TABLE contato_cliente;
 DROP TABLE endereco_cliente;
 ```
-<br/>
 
 Exclusão do BD
-```
+```mysql
 DROP DATABASE ola_mundo_telecom;
 ```
