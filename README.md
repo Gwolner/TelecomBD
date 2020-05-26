@@ -1,6 +1,6 @@
 # Olá Mundo Telecom  <img src="logo/mysql.png" width="80" height="40" align="right">
 
-Projeto de conclusão da disciplina Banco de Dados I no IFPE Recife.
+> Projeto de conclusão da disciplina Banco de Dados I no IFPE Recife.
 Trata-se do planejamento e elaboração de um Banco de Dados (BD) para uma empresa fictícia de telefonia chamada Olá Mundo Telecom.
 
 ## Sobre a empresa
