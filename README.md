@@ -1,11 +1,11 @@
-# Olá Mundo Telecom  <img src="logo/mysql.png" width="80" height="40" align="right">
+# Telecom Olá Mundo <img src="logo/mysql.png" width="80" height="40" align="right">
 
 > Projeto de conclusão da disciplina Banco de Dados I no IFPE Recife.
-Trata-se do planejamento e elaboração de um Banco de Dados (BD) para uma empresa fictícia de telefonia chamada Olá Mundo Telecom.
+Trata-se do planejamento e elaboração de um Banco de Dados (BD) para uma empresa fictícia de telefonia chamada Telecom Olá Mundo.
 
 ## Sobre a empresa
 
-Olá Mundo Telecom é uma empresa pernambucana de telefonia fixa. Sua matriz fica na cidade do Recife com filiais em Caruaru e Arcoverde. Por ser uma prestadora de serviços telefônicos de médio porte, só atende clientes do estado de Pernambuco, próximos das localidades onde ficam a sede e as filiais. 
+Telecom Olá Mundo é uma empresa pernambucana de telefonia fixa. Sua matriz fica na cidade do Recife com filiais em Caruaru e Arcoverde. Por ser uma prestadora de serviços telefônicos de médio porte, só atende clientes do estado de Pernambuco, próximos das localidades onde ficam a sede e as filiais. 
 O cliente (CPF, RG, nome, endereço, contato) assina um contrato que possui um numero de identificação, o plano adquirido, a data em que foi assinado e o endereço onde o serviço será prestado. Cada contrato implica em um serviço que contém protocolo, data de emissão, a descrição da atividade e, claro, informações da linha telefônica que será instalada, removida ou ampliada no cliente.
 Os técnicos são responsáveis por realizarem os serviços, podendo mais de um deles atuar na mesma atividade. Cada técnico deve portar a matricula da empresa, seu nome, numero da CNH e do registro do CREA.
 
